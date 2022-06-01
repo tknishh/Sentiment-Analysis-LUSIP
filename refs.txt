@@ -1,0 +1,9 @@
+Links:
+
+https://towardsdatascience.com/twitter-sentiment-analysis-based-on-news-topics-during-covid-19-c3d738005b55  
+https://towardsdatascience.com/how-did-twitter-react-to-the-coronavirus-pandemic-2857592b449a
+https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/  
+http://www.cs.columbia.edu/~julia/papers/Agarwaletal11.pdf 
+https://monkeylearn.com/blog/sentiment-analysis-of-twitter/  
+
+Ref paper link: https://www.medrxiv.org/content/10.1101/2020.05.08.20090464v1.full

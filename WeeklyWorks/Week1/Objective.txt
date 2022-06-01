@@ -1,0 +1,4 @@
+Objective: Perform the same objective in paper for Indian subcontinent
+
+Week 1: 
+Task 1- To retrieve twitter data and find most frequent words in last six months.
